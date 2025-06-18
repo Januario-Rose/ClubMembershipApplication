@@ -1,0 +1,11 @@
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.deps.json
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.pdb
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\refint\FieldValidatorAPI.dll
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.pdb
+C:\Users\janua\OneDrive\Documents\C# Practices\FieldValidatorAPI\obj\Debug\net8.0\ref\FieldValidatorAPI.dll
